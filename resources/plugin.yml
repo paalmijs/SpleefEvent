@@ -1,0 +1,7 @@
+name: SideSpleef
+version: 1.0 TEST
+main: lv.side.SideSpleef.SpleefMain
+commands:
+  start:
+    usage: /<command>
+    description: Sāk timeri pēc kā teleportē spēlētājus un iedod tiem lāpstas.
